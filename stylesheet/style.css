@@ -174,7 +174,7 @@ body{
     height: auto;
     background-image: 
         linear-gradient(to top, rgba(62, 47, 47, 0.8), rgba(71, 71, 97, 0.8)), /* Gradient layer */
-        url(/image/milksplash2.png); /* Image layer */
+        url(image/milksplash2.png); /* Image layer */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
